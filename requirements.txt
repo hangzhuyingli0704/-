@@ -1,0 +1,8 @@
+mediapipe
+opencv-python
+numpy
+pandas
+scikit-learn
+joblib
+# Optional (recommended). If install fails on your Mac, you can still use RandomForest/LogReg.
+# xgboost
